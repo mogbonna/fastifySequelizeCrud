@@ -29,7 +29,7 @@ fastify-sequelize-crud/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fastifySequelizeCrud.git
+git clone https://github.com/mogbonna/fastifySequelizeCrud.git
 cd fastifySequelizeCrud
 ```
 
