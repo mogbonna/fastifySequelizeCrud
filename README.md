@@ -87,24 +87,24 @@ Use Postman or another HTTP client to interact with the API.
 
 - **Create User**
 
-  - **POST** `/users`
+  - **POST** `http://localhost:3000/users`
   - **Body**: `{ "name": "John Doe", "email": "johndoe@example.com" }`
 
 - **Get All Users**
 
-  - **GET** `/users`
+  - **GET** `http://localhost:3000/users`
 
 - **Get User by ID**
 
-  - **GET** `/users/:id`
+  - **GET** `http://localhost:3000/users/:id`
 
 - **Update User**
 
-  - **PUT** `/users/:id`
+  - **PUT** `http://localhost:3000/users/:id`
   - **Body**: `{ "name": "Jane Doe" }`
 
 - **Delete User**
-  - **DELETE** `/users/:id`
+  - **DELETE** `http://localhost:3000/users/:id`
 
 ### Testing with Postman
 
